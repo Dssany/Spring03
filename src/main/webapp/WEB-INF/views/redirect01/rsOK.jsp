@@ -6,11 +6,8 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>index.jsp<br>
-	<form action="result">
-		id : <input type="text" name="id"><br>
-		<input type="submit" value="submit">
-	</form>
+<body>rsOK.jsp<br>
+	로그인성공
 
 </body>
 </html>

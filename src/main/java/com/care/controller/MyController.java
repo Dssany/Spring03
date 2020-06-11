@@ -5,7 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-@Controller
+//@Controller
 public class MyController {
 	@RequestMapping("index01")
 	public String memberIndex(Model model) {
