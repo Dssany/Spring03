@@ -11,6 +11,14 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 @Controller
 public class RedirectController {
 
+	@RequestMapping("/")
+	public String image() {
+		return "img_test";
+	}
+	
+	
+	
+	
 	@RequestMapping("re/index")
 	public String index() {
 		return "redirect01/index";
