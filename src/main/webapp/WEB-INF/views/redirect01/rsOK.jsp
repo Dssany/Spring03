@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>rsOK.jsp<br>
-	로그인성공
-
+	로그인성공<br>
+	${login}<br>
+	${db}<br>
+	${se }<br>
+	${s }<br>
+	
 </body>
 </html>
